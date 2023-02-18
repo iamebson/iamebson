@@ -7,8 +7,6 @@
 
 - 🤝 I’m looking for help with **finding an accountability buddy**
 
-- 👨‍💻 All of my projects are available at [Here.](Here.)
-
 - 💬 Ask me about **Art!, I draw in my spare time.**
 
 - 📫 How to reach me **twitterrrr!!**
