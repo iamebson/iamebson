@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Art!, I draw in my spare time.**
 
-- 📫 How to reach me **twitterrrr!!**
+- 📫 How to reach me: **Twitter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
