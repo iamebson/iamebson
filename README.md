@@ -1,11 +1,3 @@
-<!--
-  HOW TO USE
-  1. Create a public repo on GitHub named exactly the same as your username (e.g. github.com/YOUR_USERNAME/YOUR_USERNAME).
-  2. Add this file to it as README.md. It will show on your profile.
-  3. Search this file for "[" and "YOUR_USERNAME" and replace every placeholder with real info, or delete the line.
-  4. Delete all these HTML comments when done (they don't display anyway).
--->
-
 <h1 align="center">Hi, I'm Ehizokhale Ebhohimen 👋</h1>
 
 <p align="center">
@@ -25,9 +17,8 @@
 
 - 🔭 Currently a **Full-Stack Developer at EbonyLife Place(https://www.ebonylifeplace.com)**, where I'm the technical point of contact for product builds
 - 🚀 I take **MVPs from requirements to production** on tight timelines, shipped 10+ MVPs so far
-- 🏗️ Focused on **RESTful API design, database optimisation, microservices and test-driven development**
+- 🏗️ Focused on ** API design, database optimisation, microservices and test-driven development**
 - ⚡ Once refactored a set of systems and **cut server response time by 40%**
-- 🌱 Currently learning:e.g. AWS, Docker, system design
 - 💬 Ask me about: e.g. API design, database schemas, testing strategy, WordPress
 - 🎓 B.S. Computer Science, **Benson Idahosa University**
 
@@ -51,8 +42,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
+**Hosting & Deployment**
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 <!--
-  Add badges for the frameworks and tools you actually use. Copy this pattern and swap the name, colour and logo:
   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -82,7 +78,7 @@
 
 ## 📌 Featured Projects
 
-<!-- Pin your best 4-6 repos on your profile too. Repos with a clear README and a live demo make the biggest impression. -->
+<!-- reminder to pin  best repos on profile too. repos with a clear README and a live demo will make best impression. -->
 <!--
 | Project | What it does | Tech | Links |
 |---|---|---|---|
@@ -104,7 +100,7 @@
 
 ## 🤝 Let's Connect
 
-I'm open to [full-time roles / freelance projects / collaborations]. The best way to reach me is by email at **ehi.ebhohimen@gmail.com**.
+I'm open to [part-time roles / contract projects / collaborations]. The best way to reach me is by email at **ehi.ebhohimen@gmail.com**.
 
 <p align="center">
   <!-- <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=1F3A5F&style=flat" alt="Profile views"/> -->
