@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently a **Full-Stack Developer at EbonyLife Group](https://www.ebonylifeplace.com)**, where I'm the technical point of contact for product builds
+- 🔭 Currently a **Full-Stack Developer at EbonyLife Place(https://www.ebonylifeplace.com)**, where I'm the technical point of contact for product builds
 - 🚀 I take **MVPs from requirements to production** on tight timelines, shipped 10+ MVPs so far
 - 🏗️ Focused on **RESTful API design, database optimisation, microservices and test-driven development**
 - ⚡ Once refactored a set of systems and **cut server response time by 40%**
