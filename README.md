@@ -70,10 +70,10 @@
 
 **Highlights**
 
-- Designed and deployed scalable database schemas and RESTful APIs [supporting 30k+ monthly active users; confirm your scope]
-- Built and deployed 10+ web applications on a microservices architecture [name 1-2 examples]
-- Integrated complex third-party APIs [e.g. payments, booking, SMS] into new and existing systems
-- Wrote 20+ unit and integration tests and introduced new testing frameworks, improving testing efficiency by 30%
+- Designed and deployed scalable database schemas and RESTful APIs (supporting 30k+ monthly active users;)
+- Built and deployed 10+ web applications on a microservices architecture 
+- Integrated complex third-party APIs (e.g. payments, booking, SMS) into new and existing systems
+- Wrote 10+ unit and integration tests and introduced new testing frameworks, improving testing efficiency by 30%
 
 ---
 
