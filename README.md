@@ -96,6 +96,12 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" alt="Top languages"/>
 </p> -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamebson&show_icons=true&theme=radial)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamebson&layout=compact&theme=radial)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=iamebson&theme=radial)](https://git.io/streak-stats)
+
 
 ---
 
