@@ -107,7 +107,7 @@
 
 ## 🤝 Let's Connect
 
-I'm open to [part-time roles / contract projects / collaborations]. The best way to reach me is by email at **ehi.ebhohimen@gmail.com**.
+I'm open to part-time roles / contract projects / collaborations. The best way to reach me is by email at **ehi.ebhohimen@gmail.com**.
 
 <p align="center">
   <!-- <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=1F3A5F&style=flat" alt="Profile views"/> -->
