@@ -15,11 +15,11 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently a **Full-Stack Developer at EbonyLife Place(https://www.ebonylifeplace.com)**, where I'm the technical point of contact for product builds
+- 🔭 Full-Stack Developer, technical point of contact for product builds
 - 🚀 I take **MVPs from requirements to production** on tight timelines, shipped 10+ MVPs so far
 - 🏗️ Focused on ** API design, database optimisation, microservices and test-driven development**
-- ⚡ Once refactored a set of systems and **cut server response time by 40%**
-- 💬 Ask me about: e.g. API design, database schemas, testing strategy, WordPress
+- ⚡ System refactoring and optimisation
+- 💬 Ask me about: e.g. API design, database schemas, testing strategy
 - 🎓 B.S. Computer Science, **Benson Idahosa University**
 
 ---
